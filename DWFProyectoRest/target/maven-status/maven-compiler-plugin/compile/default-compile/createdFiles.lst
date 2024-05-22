@@ -1,0 +1,11 @@
+resource\CursoResource.class
+service\AlumnoService.class
+config\DBConnection.class
+dao\CursoDAO.class
+dao\AlumnoDAO.class
+model\Curso.class
+resource\AlumnoResource.class
+model\Alumno.class
+config\ApplicationConfig.class
+.netbeans_automatic_build
+service\CursoService.class
